@@ -12,5 +12,7 @@ public class StreamsHomework {
         Student s2 = new Student("Kate", "James", marks2);
         Student s3 = new Student("Diana", "Axe", marks3);
 
+
+
     }
 }
